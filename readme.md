@@ -1,11 +1,11 @@
-# Curso React Deivchoi
+# React Demo Cards - dcubero :)
 
-## Instrucciones para ejecutar el proyecto
+## Instructions for running the project
 
-1. Abrir la terminal
-2. Correr los siguientes comandos
+1. Open the terminal
+2. Run the following commands
    ```
    npm install
    npm run dev
    ```
-3. Abrir el link que aparece en la consola
+3. Open the link that appears in the console
